@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TestSpringBoot
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Adrian
+Implementation-Vendor-Id: com.aandb.academic
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
